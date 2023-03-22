@@ -1,8 +1,6 @@
 package psets.vehicles;
 
 import java.util.List;
-
-
 import psets.vehicles.model.dao.VehicleDAO;
 import psets.vehicles.model.domain.Vehicle;
 

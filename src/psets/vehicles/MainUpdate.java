@@ -1,6 +1,5 @@
 package psets.vehicles;
 
-
 import psets.vehicles.model.dao.VehicleDAO;
 import psets.vehicles.model.domain.Vehicle;
 
